@@ -1,12 +1,12 @@
 body {
-   
+    
 }
 
-.estilo-pricipal{
+.titulo-principal {
     padding-left: 25px;
 }
 
-img{
+img {
     width: 100%;
 }
 
@@ -44,6 +44,7 @@ ul {
     display: inline-block;
     vertical-align: top;
     width: 20%;
+    margin-right: 15%;
 }
 
 .itens {
